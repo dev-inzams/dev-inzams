@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://www.canva.com/design/DAFzH86ANJE/x8NbighAaq_NiXmWVYhgkw/watch?utm_content=DAFzH86ANJE&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://github.com/dev-inzams/dev-inzams/blob/main/github%20banner.gif)"  />
+  <img src="github banner.gif"  />
 </div>
 
 ###
